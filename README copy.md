@@ -53,8 +53,20 @@ Every result title opens a virtual result page inside the XYMZ Search interface.
 All displayed result URLs use the XYMZsuite.com domain, for example:
 
 ```text
-https://XYMZsuite.com/images/media/birdwatcher-central/
+https://www.XYMZsuite.com/images/media/birdwatcher-central/
 ```
 
 Because this is a static site, accuracy comes from the internal `XYMZ_INDEX` dataset inside `script.js`.
 To make results accurate for more topics, add more real curated entries to that internal index.
+
+
+## Important internal-search fix
+
+This version keeps every result inside `https://www.XYMZsuite.com`.
+
+- Result titles no longer navigate to real browser paths.
+- Result clicks open an internal XYMZsuite virtual result viewer.
+- `vercel.json` and `_redirects` are included so deployed paths like `/images/forum/...` route back to `index.html` instead of showing a 404.
+- The search can import public knowledge/image results into XYMZsuite cards when the browser allows CORS/network access.
+- It does not open Google, Bing, DuckDuckGo, or any external search-engine result page.
+- For image searches, XYMZsuite renders image cards internally and can pull public Wikimedia image results into the site.

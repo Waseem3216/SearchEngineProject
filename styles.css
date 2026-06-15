@@ -6892,3 +6892,31 @@ mark { background: #ffff00; color: #000; }
     radial-gradient(circle at 33% 9%, rgba(221,187,119,0.16), transparent 46%);
   border-color: rgba(68, 17, 238, 0.35);
 }
+
+
+/* XYMZsuite internal image result cards */
+.result-thumb {
+  width: 100%;
+  height: 160px;
+  margin: 8px 0;
+  border: 3px ridge #ffffff;
+  background-size: cover;
+  background-position: center;
+  box-shadow:
+    inset 0 0 0 1px rgba(0,0,0,0.2),
+    3px 3px 0 rgba(0,0,0,0.18);
+  image-rendering: auto;
+}
+
+.result-card:has(.result-thumb) {
+  background:
+    linear-gradient(90deg, rgba(255,255,255,0.92), rgba(246,250,255,0.92)),
+    #ffffff;
+}
+
+.dialog-body mark {
+  display: inline-block;
+  margin: 2px;
+  padding: 2px 5px;
+  border: 1px solid #999;
+}
