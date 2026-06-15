@@ -38,7 +38,7 @@ http://localhost:8000
 ## Note
 
 The site is static. The built-in search engine searches the local XYMZ index in `script.js`.
-All results stay inside XYMZ.com. No Google, DuckDuckGo, Bing, or other search engine is used.
+All results stay inside XYMZsuite.com. No Google, DuckDuckGo, Bing, or other search engine is used.
 
 ## Result-click behavior
 
@@ -50,10 +50,10 @@ The displayed URLs are intentionally fictional for the retro search-engine illus
 
 This build does not send users to Google, DuckDuckGo, Bing, or fake external domains.
 Every result title opens a virtual result page inside the XYMZ Search interface.
-All displayed result URLs use the XYMZ.com domain, for example:
+All displayed result URLs use the XYMZsuite.com domain, for example:
 
 ```text
-https://XYMZ.com/images/media/birdwatcher-central/
+https://XYMZsuite.com/images/media/birdwatcher-central/
 ```
 
 Because this is a static site, accuracy comes from the internal `XYMZ_INDEX` dataset inside `script.js`.

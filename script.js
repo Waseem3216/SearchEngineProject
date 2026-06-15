@@ -10,7 +10,7 @@ const XYMZ_INDEX = [
       "photography"
     ],
     "snippet": "A colorful gallery of birds, field notes, migration maps, and vintage binocular reviews.",
-    "url": "https://XYMZ.com/images/media/birdwatcher-central/",
+    "url": "https://XYMZsuite.com/images/media/birdwatcher-central/",
     "freshness": 62,
     "trust": 83,
     "speed": 74,
@@ -27,7 +27,7 @@ const XYMZ_INDEX = [
       "questions"
     ],
     "snippet": "A message board where bird lovers ask identification questions and share sightings.",
-    "url": "https://XYMZ.com/forums/forum/feather-forum/",
+    "url": "https://XYMZsuite.com/forums/forum/feather-forum/",
     "freshness": 69,
     "trust": 88,
     "speed": 83,
@@ -44,7 +44,7 @@ const XYMZ_INDEX = [
       "enterprise"
     ],
     "snippet": "A professional mock client portal showing reports, onboarding, and search-driven insights.",
-    "url": "https://XYMZ.com/business/client/pixel-client-portal/",
+    "url": "https://XYMZsuite.com/business/client/pixel-client-portal/",
     "freshness": 76,
     "trust": 93,
     "speed": 92,
@@ -61,7 +61,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A nostalgic directory of browser games, scoreboards, animations, and fan-made worlds.",
-    "url": "https://XYMZ.com/games/media/flash-game-vault/",
+    "url": "https://XYMZsuite.com/games/media/flash-game-vault/",
     "freshness": 83,
     "trust": 98,
     "speed": 67,
@@ -78,7 +78,7 @@ const XYMZ_INDEX = [
       "tools"
     ],
     "snippet": "Utilities, screensavers, ZIP tools, MP3 taggers, and freeware from the classic desktop era.",
-    "url": "https://XYMZ.com/software/tool/shareware-planet/",
+    "url": "https://XYMZsuite.com/software/tool/shareware-planet/",
     "freshness": 90,
     "trust": 81,
     "speed": 76,
@@ -95,7 +95,7 @@ const XYMZ_INDEX = [
       "homepages"
     ],
     "snippet": "Browse personal homepages, web rings, guestbooks, under-construction banners, and old-school links.",
-    "url": "https://XYMZ.com/retro/article/retro-web-ring-index/",
+    "url": "https://XYMZsuite.com/retro/article/retro-web-ring-index/",
     "freshness": 97,
     "trust": 86,
     "speed": 85,
@@ -112,7 +112,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A simulated music discovery portal with playlists, artist pages, and classic media-player skins.",
-    "url": "https://XYMZ.com/audio/media/mp3-alley/",
+    "url": "https://XYMZsuite.com/audio/media/mp3-alley/",
     "freshness": 59,
     "trust": 91,
     "speed": 94,
@@ -129,7 +129,7 @@ const XYMZ_INDEX = [
       "clients"
     ],
     "snippet": "Client-ready search technology demos with saved workspaces and executive summary exports.",
-    "url": "https://XYMZ.com/business/client/xymz-business-search-solutions/",
+    "url": "https://XYMZsuite.com/business/client/xymz-business-search-solutions/",
     "freshness": 66,
     "trust": 96,
     "speed": 69,
@@ -146,7 +146,7 @@ const XYMZ_INDEX = [
       "how-to"
     ],
     "snippet": "Troubleshooting guides, driver links, monitor setup help, and dial-up connection fixes.",
-    "url": "https://XYMZ.com/software/tool/computer-help-desk-2001/",
+    "url": "https://XYMZsuite.com/software/tool/computer-help-desk-2001/",
     "freshness": 73,
     "trust": 79,
     "speed": 78,
@@ -163,7 +163,7 @@ const XYMZ_INDEX = [
       "archive"
     ],
     "snippet": "A visual catalog of early web movie pages, poster art, trailers, and fan microsites.",
-    "url": "https://XYMZ.com/images/media/movie-poster-archive/",
+    "url": "https://XYMZsuite.com/images/media/movie-poster-archive/",
     "freshness": 80,
     "trust": 84,
     "speed": 87,
@@ -180,7 +180,7 @@ const XYMZ_INDEX = [
       "webmaster"
     ],
     "snippet": "Generate animated buttons, guestbooks, counters, framesets, and table layouts.",
-    "url": "https://XYMZ.com/software/tool/webmaster-toolkit/",
+    "url": "https://XYMZsuite.com/software/tool/webmaster-toolkit/",
     "freshness": 87,
     "trust": 89,
     "speed": 96,
@@ -197,7 +197,7 @@ const XYMZ_INDEX = [
       "case studies"
     ],
     "snippet": "Case-study style pages that make XYMZ look like a real search technology company.",
-    "url": "https://XYMZ.com/business/client/professional-client-showcase/",
+    "url": "https://XYMZsuite.com/business/client/professional-client-showcase/",
     "freshness": 94,
     "trust": 94,
     "speed": 71,
@@ -214,7 +214,7 @@ const XYMZ_INDEX = [
       "classic"
     ],
     "snippet": "Search arcade cabinets, cheat sheets, high scores, and repair resources.",
-    "url": "https://XYMZ.com/games/tool/arcade-cabinet-finder/",
+    "url": "https://XYMZsuite.com/games/tool/arcade-cabinet-finder/",
     "freshness": 56,
     "trust": 99,
     "speed": 80,
@@ -231,7 +231,7 @@ const XYMZ_INDEX = [
       "technology"
     ],
     "snippet": "Headlines from the information superhighway with daily links and editor picks.",
-    "url": "https://XYMZ.com/all/article/cyber-web-newswire/",
+    "url": "https://XYMZsuite.com/all/article/cyber-web-newswire/",
     "freshness": 63,
     "trust": 82,
     "speed": 89,
@@ -248,7 +248,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A human-curated directory of personal sites, fan shrines, and handcrafted pages.",
-    "url": "https://XYMZ.com/retro/article/personal-homepage-directory/",
+    "url": "https://XYMZsuite.com/retro/article/personal-homepage-directory/",
     "freshness": 70,
     "trust": 87,
     "speed": 98,
@@ -265,7 +265,7 @@ const XYMZ_INDEX = [
       "nature"
     ],
     "snippet": "Listen to simulated bird calls, compare waveforms, and bookmark your favorite species.",
-    "url": "https://XYMZ.com/audio/media/bird-song-mp3-lab/",
+    "url": "https://XYMZsuite.com/audio/media/bird-song-mp3-lab/",
     "freshness": 77,
     "trust": 92,
     "speed": 73,
@@ -282,7 +282,7 @@ const XYMZ_INDEX = [
       "enterprise"
     ],
     "snippet": "A professional tool for analyzing search quality, content gaps, and client readiness.",
-    "url": "https://XYMZ.com/business/tool/enterprise-search-health-check/",
+    "url": "https://XYMZsuite.com/business/tool/enterprise-search-health-check/",
     "freshness": 84,
     "trust": 97,
     "speed": 82,
@@ -299,7 +299,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "Classic cursor packs with rockets, spinning CDs, lightning bolts, and neon trails.",
-    "url": "https://XYMZ.com/software/media/animated-cursor-warehouse/",
+    "url": "https://XYMZsuite.com/software/media/animated-cursor-warehouse/",
     "freshness": 91,
     "trust": 80,
     "speed": 91,
@@ -316,7 +316,7 @@ const XYMZ_INDEX = [
       "community"
     ],
     "snippet": "Search across simulated message boards and summarize the best answers.",
-    "url": "https://XYMZ.com/forums/tool/forum-search-pro/",
+    "url": "https://XYMZsuite.com/forums/tool/forum-search-pro/",
     "freshness": 98,
     "trust": 85,
     "speed": 66,
@@ -333,7 +333,7 @@ const XYMZ_INDEX = [
       "search"
     ],
     "snippet": "A guide explaining how to use the XYMZ Agent to ask questions and search smarter.",
-    "url": "https://XYMZ.com/all/article/xymz-ai-guide-manual/",
+    "url": "https://XYMZsuite.com/all/article/xymz-ai-guide-manual/",
     "freshness": 60,
     "trust": 90,
     "speed": 75,
@@ -350,7 +350,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/tool/xymz-clients-resource-21/",
+    "url": "https://XYMZsuite.com/forums/tool/xymz-clients-resource-21/",
     "freshness": 97,
     "trust": 91,
     "speed": 93,
@@ -367,7 +367,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/client/xymz-games-resource-22/",
+    "url": "https://XYMZsuite.com/business/client/xymz-games-resource-22/",
     "freshness": 54,
     "trust": 72,
     "speed": 66,
@@ -384,7 +384,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/media/xymz-forums-resource-23/",
+    "url": "https://XYMZsuite.com/retro/media/xymz-forums-resource-23/",
     "freshness": 61,
     "trust": 83,
     "speed": 79,
@@ -401,7 +401,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/forum/xymz-mp3-resource-24/",
+    "url": "https://XYMZsuite.com/all/forum/xymz-mp3-resource-24/",
     "freshness": 68,
     "trust": 94,
     "speed": 92,
@@ -418,7 +418,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/article/xymz-software-resource-25/",
+    "url": "https://XYMZsuite.com/images/article/xymz-software-resource-25/",
     "freshness": 75,
     "trust": 75,
     "speed": 65,
@@ -435,7 +435,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/tool/xymz-business-resource-26/",
+    "url": "https://XYMZsuite.com/audio/tool/xymz-business-resource-26/",
     "freshness": 82,
     "trust": 86,
     "speed": 78,
@@ -452,7 +452,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/client/xymz-retro-resource-27/",
+    "url": "https://XYMZsuite.com/games/client/xymz-retro-resource-27/",
     "freshness": 89,
     "trust": 97,
     "speed": 91,
@@ -469,7 +469,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/media/xymz-images-resource-28/",
+    "url": "https://XYMZsuite.com/software/media/xymz-images-resource-28/",
     "freshness": 96,
     "trust": 78,
     "speed": 64,
@@ -486,7 +486,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/forum/xymz-webmaster-resource-29/",
+    "url": "https://XYMZsuite.com/forums/forum/xymz-webmaster-resource-29/",
     "freshness": 53,
     "trust": 89,
     "speed": 77,
@@ -503,7 +503,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/article/xymz-search-resource-30/",
+    "url": "https://XYMZsuite.com/business/article/xymz-search-resource-30/",
     "freshness": 60,
     "trust": 70,
     "speed": 90,
@@ -520,7 +520,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/tool/xymz-arcade-resource-31/",
+    "url": "https://XYMZsuite.com/retro/tool/xymz-arcade-resource-31/",
     "freshness": 67,
     "trust": 81,
     "speed": 63,
@@ -537,7 +537,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/client/xymz-html-resource-32/",
+    "url": "https://XYMZsuite.com/all/client/xymz-html-resource-32/",
     "freshness": 74,
     "trust": 92,
     "speed": 76,
@@ -554,7 +554,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/media/xymz-tools-resource-33/",
+    "url": "https://XYMZsuite.com/images/media/xymz-tools-resource-33/",
     "freshness": 81,
     "trust": 73,
     "speed": 89,
@@ -571,7 +571,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/forum/xymz-media-resource-34/",
+    "url": "https://XYMZsuite.com/audio/forum/xymz-media-resource-34/",
     "freshness": 88,
     "trust": 84,
     "speed": 62,
@@ -588,7 +588,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/article/xymz-case-studies-resource-35/",
+    "url": "https://XYMZsuite.com/games/article/xymz-case-studies-resource-35/",
     "freshness": 95,
     "trust": 95,
     "speed": 75,
@@ -605,7 +605,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/tool/xymz-flash-resource-36/",
+    "url": "https://XYMZsuite.com/software/tool/xymz-flash-resource-36/",
     "freshness": 52,
     "trust": 76,
     "speed": 88,
@@ -622,7 +622,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/client/xymz-internet-resource-37/",
+    "url": "https://XYMZsuite.com/forums/client/xymz-internet-resource-37/",
     "freshness": 59,
     "trust": 87,
     "speed": 61,
@@ -639,7 +639,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/media/xymz-portal-resource-38/",
+    "url": "https://XYMZsuite.com/business/media/xymz-portal-resource-38/",
     "freshness": 66,
     "trust": 98,
     "speed": 74,
@@ -656,7 +656,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/forum/xymz-directory-resource-39/",
+    "url": "https://XYMZsuite.com/retro/forum/xymz-directory-resource-39/",
     "freshness": 73,
     "trust": 79,
     "speed": 87,
@@ -673,7 +673,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/article/xymz-birds-resource-40/",
+    "url": "https://XYMZsuite.com/all/article/xymz-birds-resource-40/",
     "freshness": 80,
     "trust": 90,
     "speed": 60,
@@ -690,7 +690,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/tool/xymz-clients-resource-41/",
+    "url": "https://XYMZsuite.com/images/tool/xymz-clients-resource-41/",
     "freshness": 87,
     "trust": 71,
     "speed": 73,
@@ -707,7 +707,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/client/xymz-games-resource-42/",
+    "url": "https://XYMZsuite.com/audio/client/xymz-games-resource-42/",
     "freshness": 94,
     "trust": 82,
     "speed": 86,
@@ -724,7 +724,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/media/xymz-forums-resource-43/",
+    "url": "https://XYMZsuite.com/games/media/xymz-forums-resource-43/",
     "freshness": 51,
     "trust": 93,
     "speed": 99,
@@ -741,7 +741,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/forum/xymz-mp3-resource-44/",
+    "url": "https://XYMZsuite.com/software/forum/xymz-mp3-resource-44/",
     "freshness": 58,
     "trust": 74,
     "speed": 72,
@@ -758,7 +758,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/article/xymz-software-resource-45/",
+    "url": "https://XYMZsuite.com/forums/article/xymz-software-resource-45/",
     "freshness": 65,
     "trust": 85,
     "speed": 85,
@@ -775,7 +775,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/tool/xymz-business-resource-46/",
+    "url": "https://XYMZsuite.com/business/tool/xymz-business-resource-46/",
     "freshness": 72,
     "trust": 96,
     "speed": 98,
@@ -792,7 +792,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/client/xymz-retro-resource-47/",
+    "url": "https://XYMZsuite.com/retro/client/xymz-retro-resource-47/",
     "freshness": 79,
     "trust": 77,
     "speed": 71,
@@ -809,7 +809,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/media/xymz-images-resource-48/",
+    "url": "https://XYMZsuite.com/all/media/xymz-images-resource-48/",
     "freshness": 86,
     "trust": 88,
     "speed": 84,
@@ -826,7 +826,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/forum/xymz-webmaster-resource-49/",
+    "url": "https://XYMZsuite.com/images/forum/xymz-webmaster-resource-49/",
     "freshness": 93,
     "trust": 99,
     "speed": 97,
@@ -843,7 +843,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/article/xymz-search-resource-50/",
+    "url": "https://XYMZsuite.com/audio/article/xymz-search-resource-50/",
     "freshness": 50,
     "trust": 80,
     "speed": 70,
@@ -860,7 +860,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/tool/xymz-arcade-resource-51/",
+    "url": "https://XYMZsuite.com/games/tool/xymz-arcade-resource-51/",
     "freshness": 57,
     "trust": 91,
     "speed": 83,
@@ -877,7 +877,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/client/xymz-html-resource-52/",
+    "url": "https://XYMZsuite.com/software/client/xymz-html-resource-52/",
     "freshness": 64,
     "trust": 72,
     "speed": 96,
@@ -894,7 +894,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/media/xymz-tools-resource-53/",
+    "url": "https://XYMZsuite.com/forums/media/xymz-tools-resource-53/",
     "freshness": 71,
     "trust": 83,
     "speed": 69,
@@ -911,7 +911,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/forum/xymz-media-resource-54/",
+    "url": "https://XYMZsuite.com/business/forum/xymz-media-resource-54/",
     "freshness": 78,
     "trust": 94,
     "speed": 82,
@@ -928,7 +928,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/article/xymz-case-studies-resource-55/",
+    "url": "https://XYMZsuite.com/retro/article/xymz-case-studies-resource-55/",
     "freshness": 85,
     "trust": 75,
     "speed": 95,
@@ -945,7 +945,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/tool/xymz-flash-resource-56/",
+    "url": "https://XYMZsuite.com/all/tool/xymz-flash-resource-56/",
     "freshness": 92,
     "trust": 86,
     "speed": 68,
@@ -962,7 +962,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/client/xymz-internet-resource-57/",
+    "url": "https://XYMZsuite.com/images/client/xymz-internet-resource-57/",
     "freshness": 99,
     "trust": 97,
     "speed": 81,
@@ -979,7 +979,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/media/xymz-portal-resource-58/",
+    "url": "https://XYMZsuite.com/audio/media/xymz-portal-resource-58/",
     "freshness": 56,
     "trust": 78,
     "speed": 94,
@@ -996,7 +996,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/forum/xymz-directory-resource-59/",
+    "url": "https://XYMZsuite.com/games/forum/xymz-directory-resource-59/",
     "freshness": 63,
     "trust": 89,
     "speed": 67,
@@ -1013,7 +1013,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/article/xymz-birds-resource-60/",
+    "url": "https://XYMZsuite.com/software/article/xymz-birds-resource-60/",
     "freshness": 70,
     "trust": 70,
     "speed": 80,
@@ -1030,7 +1030,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/tool/xymz-clients-resource-61/",
+    "url": "https://XYMZsuite.com/forums/tool/xymz-clients-resource-61/",
     "freshness": 77,
     "trust": 81,
     "speed": 93,
@@ -1047,7 +1047,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/client/xymz-games-resource-62/",
+    "url": "https://XYMZsuite.com/business/client/xymz-games-resource-62/",
     "freshness": 84,
     "trust": 92,
     "speed": 66,
@@ -1064,7 +1064,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/media/xymz-forums-resource-63/",
+    "url": "https://XYMZsuite.com/retro/media/xymz-forums-resource-63/",
     "freshness": 91,
     "trust": 73,
     "speed": 79,
@@ -1081,7 +1081,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/forum/xymz-mp3-resource-64/",
+    "url": "https://XYMZsuite.com/all/forum/xymz-mp3-resource-64/",
     "freshness": 98,
     "trust": 84,
     "speed": 92,
@@ -1098,7 +1098,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/article/xymz-software-resource-65/",
+    "url": "https://XYMZsuite.com/images/article/xymz-software-resource-65/",
     "freshness": 55,
     "trust": 95,
     "speed": 65,
@@ -1115,7 +1115,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/tool/xymz-business-resource-66/",
+    "url": "https://XYMZsuite.com/audio/tool/xymz-business-resource-66/",
     "freshness": 62,
     "trust": 76,
     "speed": 78,
@@ -1132,7 +1132,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/client/xymz-retro-resource-67/",
+    "url": "https://XYMZsuite.com/games/client/xymz-retro-resource-67/",
     "freshness": 69,
     "trust": 87,
     "speed": 91,
@@ -1149,7 +1149,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/media/xymz-images-resource-68/",
+    "url": "https://XYMZsuite.com/software/media/xymz-images-resource-68/",
     "freshness": 76,
     "trust": 98,
     "speed": 64,
@@ -1166,7 +1166,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/forum/xymz-webmaster-resource-69/",
+    "url": "https://XYMZsuite.com/forums/forum/xymz-webmaster-resource-69/",
     "freshness": 83,
     "trust": 79,
     "speed": 77,
@@ -1183,7 +1183,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/article/xymz-search-resource-70/",
+    "url": "https://XYMZsuite.com/business/article/xymz-search-resource-70/",
     "freshness": 90,
     "trust": 90,
     "speed": 90,
@@ -1200,7 +1200,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/tool/xymz-arcade-resource-71/",
+    "url": "https://XYMZsuite.com/retro/tool/xymz-arcade-resource-71/",
     "freshness": 97,
     "trust": 71,
     "speed": 63,
@@ -1217,7 +1217,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/client/xymz-html-resource-72/",
+    "url": "https://XYMZsuite.com/all/client/xymz-html-resource-72/",
     "freshness": 54,
     "trust": 82,
     "speed": 76,
@@ -1234,7 +1234,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/media/xymz-tools-resource-73/",
+    "url": "https://XYMZsuite.com/images/media/xymz-tools-resource-73/",
     "freshness": 61,
     "trust": 93,
     "speed": 89,
@@ -1251,7 +1251,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/forum/xymz-media-resource-74/",
+    "url": "https://XYMZsuite.com/audio/forum/xymz-media-resource-74/",
     "freshness": 68,
     "trust": 74,
     "speed": 62,
@@ -1268,7 +1268,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/article/xymz-case-studies-resource-75/",
+    "url": "https://XYMZsuite.com/games/article/xymz-case-studies-resource-75/",
     "freshness": 75,
     "trust": 85,
     "speed": 75,
@@ -1285,7 +1285,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/tool/xymz-flash-resource-76/",
+    "url": "https://XYMZsuite.com/software/tool/xymz-flash-resource-76/",
     "freshness": 82,
     "trust": 96,
     "speed": 88,
@@ -1302,7 +1302,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/client/xymz-internet-resource-77/",
+    "url": "https://XYMZsuite.com/forums/client/xymz-internet-resource-77/",
     "freshness": 89,
     "trust": 77,
     "speed": 61,
@@ -1319,7 +1319,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/media/xymz-portal-resource-78/",
+    "url": "https://XYMZsuite.com/business/media/xymz-portal-resource-78/",
     "freshness": 96,
     "trust": 88,
     "speed": 74,
@@ -1336,7 +1336,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/forum/xymz-directory-resource-79/",
+    "url": "https://XYMZsuite.com/retro/forum/xymz-directory-resource-79/",
     "freshness": 53,
     "trust": 99,
     "speed": 87,
@@ -1353,7 +1353,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/article/xymz-birds-resource-80/",
+    "url": "https://XYMZsuite.com/all/article/xymz-birds-resource-80/",
     "freshness": 60,
     "trust": 80,
     "speed": 60,
@@ -1370,7 +1370,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/tool/xymz-clients-resource-81/",
+    "url": "https://XYMZsuite.com/images/tool/xymz-clients-resource-81/",
     "freshness": 67,
     "trust": 91,
     "speed": 73,
@@ -1387,7 +1387,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/client/xymz-games-resource-82/",
+    "url": "https://XYMZsuite.com/audio/client/xymz-games-resource-82/",
     "freshness": 74,
     "trust": 72,
     "speed": 86,
@@ -1404,7 +1404,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/media/xymz-forums-resource-83/",
+    "url": "https://XYMZsuite.com/games/media/xymz-forums-resource-83/",
     "freshness": 81,
     "trust": 83,
     "speed": 99,
@@ -1421,7 +1421,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/forum/xymz-mp3-resource-84/",
+    "url": "https://XYMZsuite.com/software/forum/xymz-mp3-resource-84/",
     "freshness": 88,
     "trust": 94,
     "speed": 72,
@@ -1438,7 +1438,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/article/xymz-software-resource-85/",
+    "url": "https://XYMZsuite.com/forums/article/xymz-software-resource-85/",
     "freshness": 95,
     "trust": 75,
     "speed": 85,
@@ -1455,7 +1455,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/tool/xymz-business-resource-86/",
+    "url": "https://XYMZsuite.com/business/tool/xymz-business-resource-86/",
     "freshness": 52,
     "trust": 86,
     "speed": 98,
@@ -1472,7 +1472,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/client/xymz-retro-resource-87/",
+    "url": "https://XYMZsuite.com/retro/client/xymz-retro-resource-87/",
     "freshness": 59,
     "trust": 97,
     "speed": 71,
@@ -1489,7 +1489,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/media/xymz-images-resource-88/",
+    "url": "https://XYMZsuite.com/all/media/xymz-images-resource-88/",
     "freshness": 66,
     "trust": 78,
     "speed": 84,
@@ -1506,7 +1506,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/forum/xymz-webmaster-resource-89/",
+    "url": "https://XYMZsuite.com/images/forum/xymz-webmaster-resource-89/",
     "freshness": 73,
     "trust": 89,
     "speed": 97,
@@ -1523,7 +1523,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/article/xymz-search-resource-90/",
+    "url": "https://XYMZsuite.com/audio/article/xymz-search-resource-90/",
     "freshness": 80,
     "trust": 70,
     "speed": 70,
@@ -1540,7 +1540,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/tool/xymz-arcade-resource-91/",
+    "url": "https://XYMZsuite.com/games/tool/xymz-arcade-resource-91/",
     "freshness": 87,
     "trust": 81,
     "speed": 83,
@@ -1557,7 +1557,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/client/xymz-html-resource-92/",
+    "url": "https://XYMZsuite.com/software/client/xymz-html-resource-92/",
     "freshness": 94,
     "trust": 92,
     "speed": 96,
@@ -1574,7 +1574,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/media/xymz-tools-resource-93/",
+    "url": "https://XYMZsuite.com/forums/media/xymz-tools-resource-93/",
     "freshness": 51,
     "trust": 73,
     "speed": 69,
@@ -1591,7 +1591,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/forum/xymz-media-resource-94/",
+    "url": "https://XYMZsuite.com/business/forum/xymz-media-resource-94/",
     "freshness": 58,
     "trust": 84,
     "speed": 82,
@@ -1608,7 +1608,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/article/xymz-case-studies-resource-95/",
+    "url": "https://XYMZsuite.com/retro/article/xymz-case-studies-resource-95/",
     "freshness": 65,
     "trust": 95,
     "speed": 95,
@@ -1625,7 +1625,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/tool/xymz-flash-resource-96/",
+    "url": "https://XYMZsuite.com/all/tool/xymz-flash-resource-96/",
     "freshness": 72,
     "trust": 76,
     "speed": 68,
@@ -1642,7 +1642,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/client/xymz-internet-resource-97/",
+    "url": "https://XYMZsuite.com/images/client/xymz-internet-resource-97/",
     "freshness": 79,
     "trust": 87,
     "speed": 81,
@@ -1659,7 +1659,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/media/xymz-portal-resource-98/",
+    "url": "https://XYMZsuite.com/audio/media/xymz-portal-resource-98/",
     "freshness": 86,
     "trust": 98,
     "speed": 94,
@@ -1676,7 +1676,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/forum/xymz-directory-resource-99/",
+    "url": "https://XYMZsuite.com/games/forum/xymz-directory-resource-99/",
     "freshness": 93,
     "trust": 79,
     "speed": 67,
@@ -1693,7 +1693,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/article/xymz-birds-resource-100/",
+    "url": "https://XYMZsuite.com/software/article/xymz-birds-resource-100/",
     "freshness": 50,
     "trust": 90,
     "speed": 80,
@@ -1710,7 +1710,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/tool/xymz-clients-resource-101/",
+    "url": "https://XYMZsuite.com/forums/tool/xymz-clients-resource-101/",
     "freshness": 57,
     "trust": 71,
     "speed": 93,
@@ -1727,7 +1727,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/client/xymz-games-resource-102/",
+    "url": "https://XYMZsuite.com/business/client/xymz-games-resource-102/",
     "freshness": 64,
     "trust": 82,
     "speed": 66,
@@ -1744,7 +1744,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/media/xymz-forums-resource-103/",
+    "url": "https://XYMZsuite.com/retro/media/xymz-forums-resource-103/",
     "freshness": 71,
     "trust": 93,
     "speed": 79,
@@ -1761,7 +1761,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/forum/xymz-mp3-resource-104/",
+    "url": "https://XYMZsuite.com/all/forum/xymz-mp3-resource-104/",
     "freshness": 78,
     "trust": 74,
     "speed": 92,
@@ -1778,7 +1778,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/article/xymz-software-resource-105/",
+    "url": "https://XYMZsuite.com/images/article/xymz-software-resource-105/",
     "freshness": 85,
     "trust": 85,
     "speed": 65,
@@ -1795,7 +1795,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/tool/xymz-business-resource-106/",
+    "url": "https://XYMZsuite.com/audio/tool/xymz-business-resource-106/",
     "freshness": 92,
     "trust": 96,
     "speed": 78,
@@ -1812,7 +1812,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/client/xymz-retro-resource-107/",
+    "url": "https://XYMZsuite.com/games/client/xymz-retro-resource-107/",
     "freshness": 99,
     "trust": 77,
     "speed": 91,
@@ -1829,7 +1829,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/media/xymz-images-resource-108/",
+    "url": "https://XYMZsuite.com/software/media/xymz-images-resource-108/",
     "freshness": 56,
     "trust": 88,
     "speed": 64,
@@ -1846,7 +1846,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/forum/xymz-webmaster-resource-109/",
+    "url": "https://XYMZsuite.com/forums/forum/xymz-webmaster-resource-109/",
     "freshness": 63,
     "trust": 99,
     "speed": 77,
@@ -1863,7 +1863,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/article/xymz-search-resource-110/",
+    "url": "https://XYMZsuite.com/business/article/xymz-search-resource-110/",
     "freshness": 70,
     "trust": 80,
     "speed": 90,
@@ -1880,7 +1880,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/tool/xymz-arcade-resource-111/",
+    "url": "https://XYMZsuite.com/retro/tool/xymz-arcade-resource-111/",
     "freshness": 77,
     "trust": 91,
     "speed": 63,
@@ -1897,7 +1897,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/client/xymz-html-resource-112/",
+    "url": "https://XYMZsuite.com/all/client/xymz-html-resource-112/",
     "freshness": 84,
     "trust": 72,
     "speed": 76,
@@ -1914,7 +1914,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/media/xymz-tools-resource-113/",
+    "url": "https://XYMZsuite.com/images/media/xymz-tools-resource-113/",
     "freshness": 91,
     "trust": 83,
     "speed": 89,
@@ -1931,7 +1931,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/forum/xymz-media-resource-114/",
+    "url": "https://XYMZsuite.com/audio/forum/xymz-media-resource-114/",
     "freshness": 98,
     "trust": 94,
     "speed": 62,
@@ -1948,7 +1948,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/article/xymz-case-studies-resource-115/",
+    "url": "https://XYMZsuite.com/games/article/xymz-case-studies-resource-115/",
     "freshness": 55,
     "trust": 75,
     "speed": 75,
@@ -1965,7 +1965,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/tool/xymz-flash-resource-116/",
+    "url": "https://XYMZsuite.com/software/tool/xymz-flash-resource-116/",
     "freshness": 62,
     "trust": 86,
     "speed": 88,
@@ -1982,7 +1982,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/client/xymz-internet-resource-117/",
+    "url": "https://XYMZsuite.com/forums/client/xymz-internet-resource-117/",
     "freshness": 69,
     "trust": 97,
     "speed": 61,
@@ -1999,7 +1999,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/media/xymz-portal-resource-118/",
+    "url": "https://XYMZsuite.com/business/media/xymz-portal-resource-118/",
     "freshness": 76,
     "trust": 78,
     "speed": 74,
@@ -2016,7 +2016,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/forum/xymz-directory-resource-119/",
+    "url": "https://XYMZsuite.com/retro/forum/xymz-directory-resource-119/",
     "freshness": 83,
     "trust": 89,
     "speed": 87,
@@ -2033,7 +2033,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/article/xymz-birds-resource-120/",
+    "url": "https://XYMZsuite.com/all/article/xymz-birds-resource-120/",
     "freshness": 90,
     "trust": 70,
     "speed": 60,
@@ -2050,7 +2050,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/tool/xymz-clients-resource-121/",
+    "url": "https://XYMZsuite.com/images/tool/xymz-clients-resource-121/",
     "freshness": 97,
     "trust": 81,
     "speed": 73,
@@ -2067,7 +2067,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/client/xymz-games-resource-122/",
+    "url": "https://XYMZsuite.com/audio/client/xymz-games-resource-122/",
     "freshness": 54,
     "trust": 92,
     "speed": 86,
@@ -2084,7 +2084,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/media/xymz-forums-resource-123/",
+    "url": "https://XYMZsuite.com/games/media/xymz-forums-resource-123/",
     "freshness": 61,
     "trust": 73,
     "speed": 99,
@@ -2101,7 +2101,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/forum/xymz-mp3-resource-124/",
+    "url": "https://XYMZsuite.com/software/forum/xymz-mp3-resource-124/",
     "freshness": 68,
     "trust": 84,
     "speed": 72,
@@ -2118,7 +2118,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/article/xymz-software-resource-125/",
+    "url": "https://XYMZsuite.com/forums/article/xymz-software-resource-125/",
     "freshness": 75,
     "trust": 95,
     "speed": 85,
@@ -2135,7 +2135,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/tool/xymz-business-resource-126/",
+    "url": "https://XYMZsuite.com/business/tool/xymz-business-resource-126/",
     "freshness": 82,
     "trust": 76,
     "speed": 98,
@@ -2152,7 +2152,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/client/xymz-retro-resource-127/",
+    "url": "https://XYMZsuite.com/retro/client/xymz-retro-resource-127/",
     "freshness": 89,
     "trust": 87,
     "speed": 71,
@@ -2169,7 +2169,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/media/xymz-images-resource-128/",
+    "url": "https://XYMZsuite.com/all/media/xymz-images-resource-128/",
     "freshness": 96,
     "trust": 98,
     "speed": 84,
@@ -2186,7 +2186,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/forum/xymz-webmaster-resource-129/",
+    "url": "https://XYMZsuite.com/images/forum/xymz-webmaster-resource-129/",
     "freshness": 53,
     "trust": 79,
     "speed": 97,
@@ -2203,7 +2203,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/article/xymz-search-resource-130/",
+    "url": "https://XYMZsuite.com/audio/article/xymz-search-resource-130/",
     "freshness": 60,
     "trust": 90,
     "speed": 70,
@@ -2220,7 +2220,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/tool/xymz-arcade-resource-131/",
+    "url": "https://XYMZsuite.com/games/tool/xymz-arcade-resource-131/",
     "freshness": 67,
     "trust": 71,
     "speed": 83,
@@ -2237,7 +2237,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/client/xymz-html-resource-132/",
+    "url": "https://XYMZsuite.com/software/client/xymz-html-resource-132/",
     "freshness": 74,
     "trust": 82,
     "speed": 96,
@@ -2254,7 +2254,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/media/xymz-tools-resource-133/",
+    "url": "https://XYMZsuite.com/forums/media/xymz-tools-resource-133/",
     "freshness": 81,
     "trust": 93,
     "speed": 69,
@@ -2271,7 +2271,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/forum/xymz-media-resource-134/",
+    "url": "https://XYMZsuite.com/business/forum/xymz-media-resource-134/",
     "freshness": 88,
     "trust": 74,
     "speed": 82,
@@ -2288,7 +2288,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/article/xymz-case-studies-resource-135/",
+    "url": "https://XYMZsuite.com/retro/article/xymz-case-studies-resource-135/",
     "freshness": 95,
     "trust": 85,
     "speed": 95,
@@ -2305,7 +2305,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/tool/xymz-flash-resource-136/",
+    "url": "https://XYMZsuite.com/all/tool/xymz-flash-resource-136/",
     "freshness": 52,
     "trust": 96,
     "speed": 68,
@@ -2322,7 +2322,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/client/xymz-internet-resource-137/",
+    "url": "https://XYMZsuite.com/images/client/xymz-internet-resource-137/",
     "freshness": 59,
     "trust": 77,
     "speed": 81,
@@ -2339,7 +2339,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/media/xymz-portal-resource-138/",
+    "url": "https://XYMZsuite.com/audio/media/xymz-portal-resource-138/",
     "freshness": 66,
     "trust": 88,
     "speed": 94,
@@ -2356,7 +2356,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/forum/xymz-directory-resource-139/",
+    "url": "https://XYMZsuite.com/games/forum/xymz-directory-resource-139/",
     "freshness": 73,
     "trust": 99,
     "speed": 67,
@@ -2373,7 +2373,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/article/xymz-birds-resource-140/",
+    "url": "https://XYMZsuite.com/software/article/xymz-birds-resource-140/",
     "freshness": 80,
     "trust": 80,
     "speed": 80,
@@ -2390,7 +2390,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/tool/xymz-clients-resource-141/",
+    "url": "https://XYMZsuite.com/forums/tool/xymz-clients-resource-141/",
     "freshness": 87,
     "trust": 91,
     "speed": 93,
@@ -2407,7 +2407,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/client/xymz-games-resource-142/",
+    "url": "https://XYMZsuite.com/business/client/xymz-games-resource-142/",
     "freshness": 94,
     "trust": 72,
     "speed": 66,
@@ -2424,7 +2424,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/media/xymz-forums-resource-143/",
+    "url": "https://XYMZsuite.com/retro/media/xymz-forums-resource-143/",
     "freshness": 51,
     "trust": 83,
     "speed": 79,
@@ -2441,7 +2441,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/forum/xymz-mp3-resource-144/",
+    "url": "https://XYMZsuite.com/all/forum/xymz-mp3-resource-144/",
     "freshness": 58,
     "trust": 94,
     "speed": 92,
@@ -2458,7 +2458,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/article/xymz-software-resource-145/",
+    "url": "https://XYMZsuite.com/images/article/xymz-software-resource-145/",
     "freshness": 65,
     "trust": 75,
     "speed": 65,
@@ -2475,7 +2475,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/tool/xymz-business-resource-146/",
+    "url": "https://XYMZsuite.com/audio/tool/xymz-business-resource-146/",
     "freshness": 72,
     "trust": 86,
     "speed": 78,
@@ -2492,7 +2492,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/client/xymz-retro-resource-147/",
+    "url": "https://XYMZsuite.com/games/client/xymz-retro-resource-147/",
     "freshness": 79,
     "trust": 97,
     "speed": 91,
@@ -2509,7 +2509,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/media/xymz-images-resource-148/",
+    "url": "https://XYMZsuite.com/software/media/xymz-images-resource-148/",
     "freshness": 86,
     "trust": 78,
     "speed": 64,
@@ -2526,7 +2526,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/forum/xymz-webmaster-resource-149/",
+    "url": "https://XYMZsuite.com/forums/forum/xymz-webmaster-resource-149/",
     "freshness": 93,
     "trust": 89,
     "speed": 77,
@@ -2543,7 +2543,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/article/xymz-search-resource-150/",
+    "url": "https://XYMZsuite.com/business/article/xymz-search-resource-150/",
     "freshness": 50,
     "trust": 70,
     "speed": 90,
@@ -2560,7 +2560,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/tool/xymz-arcade-resource-151/",
+    "url": "https://XYMZsuite.com/retro/tool/xymz-arcade-resource-151/",
     "freshness": 57,
     "trust": 81,
     "speed": 63,
@@ -2577,7 +2577,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/client/xymz-html-resource-152/",
+    "url": "https://XYMZsuite.com/all/client/xymz-html-resource-152/",
     "freshness": 64,
     "trust": 92,
     "speed": 76,
@@ -2594,7 +2594,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/media/xymz-tools-resource-153/",
+    "url": "https://XYMZsuite.com/images/media/xymz-tools-resource-153/",
     "freshness": 71,
     "trust": 73,
     "speed": 89,
@@ -2611,7 +2611,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/forum/xymz-media-resource-154/",
+    "url": "https://XYMZsuite.com/audio/forum/xymz-media-resource-154/",
     "freshness": 78,
     "trust": 84,
     "speed": 62,
@@ -2628,7 +2628,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/article/xymz-case-studies-resource-155/",
+    "url": "https://XYMZsuite.com/games/article/xymz-case-studies-resource-155/",
     "freshness": 85,
     "trust": 95,
     "speed": 75,
@@ -2645,7 +2645,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/tool/xymz-flash-resource-156/",
+    "url": "https://XYMZsuite.com/software/tool/xymz-flash-resource-156/",
     "freshness": 92,
     "trust": 76,
     "speed": 88,
@@ -2662,7 +2662,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/client/xymz-internet-resource-157/",
+    "url": "https://XYMZsuite.com/forums/client/xymz-internet-resource-157/",
     "freshness": 99,
     "trust": 87,
     "speed": 61,
@@ -2679,7 +2679,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/media/xymz-portal-resource-158/",
+    "url": "https://XYMZsuite.com/business/media/xymz-portal-resource-158/",
     "freshness": 56,
     "trust": 98,
     "speed": 74,
@@ -2696,7 +2696,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/forum/xymz-directory-resource-159/",
+    "url": "https://XYMZsuite.com/retro/forum/xymz-directory-resource-159/",
     "freshness": 63,
     "trust": 79,
     "speed": 87,
@@ -2713,7 +2713,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/article/xymz-birds-resource-160/",
+    "url": "https://XYMZsuite.com/all/article/xymz-birds-resource-160/",
     "freshness": 70,
     "trust": 90,
     "speed": 60,
@@ -2730,7 +2730,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable tool resource about clients, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/tool/xymz-clients-resource-161/",
+    "url": "https://XYMZsuite.com/images/tool/xymz-clients-resource-161/",
     "freshness": 77,
     "trust": 71,
     "speed": 73,
@@ -2747,7 +2747,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable client resource about games, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/client/xymz-games-resource-162/",
+    "url": "https://XYMZsuite.com/audio/client/xymz-games-resource-162/",
     "freshness": 84,
     "trust": 82,
     "speed": 86,
@@ -2764,7 +2764,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable media resource about forums, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/media/xymz-forums-resource-163/",
+    "url": "https://XYMZsuite.com/games/media/xymz-forums-resource-163/",
     "freshness": 91,
     "trust": 93,
     "speed": 99,
@@ -2781,7 +2781,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable forum resource about mp3, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/forum/xymz-mp3-resource-164/",
+    "url": "https://XYMZsuite.com/software/forum/xymz-mp3-resource-164/",
     "freshness": 98,
     "trust": 74,
     "speed": 72,
@@ -2798,7 +2798,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable article resource about software, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/article/xymz-software-resource-165/",
+    "url": "https://XYMZsuite.com/forums/article/xymz-software-resource-165/",
     "freshness": 55,
     "trust": 85,
     "speed": 85,
@@ -2815,7 +2815,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable tool resource about business, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/tool/xymz-business-resource-166/",
+    "url": "https://XYMZsuite.com/business/tool/xymz-business-resource-166/",
     "freshness": 62,
     "trust": 96,
     "speed": 98,
@@ -2832,7 +2832,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable client resource about retro, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/client/xymz-retro-resource-167/",
+    "url": "https://XYMZsuite.com/retro/client/xymz-retro-resource-167/",
     "freshness": 69,
     "trust": 77,
     "speed": 71,
@@ -2849,7 +2849,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable media resource about images, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/media/xymz-images-resource-168/",
+    "url": "https://XYMZsuite.com/all/media/xymz-images-resource-168/",
     "freshness": 76,
     "trust": 88,
     "speed": 84,
@@ -2866,7 +2866,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable forum resource about webmaster, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/forum/xymz-webmaster-resource-169/",
+    "url": "https://XYMZsuite.com/images/forum/xymz-webmaster-resource-169/",
     "freshness": 83,
     "trust": 99,
     "speed": 97,
@@ -2883,7 +2883,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable article resource about search, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/article/xymz-search-resource-170/",
+    "url": "https://XYMZsuite.com/audio/article/xymz-search-resource-170/",
     "freshness": 90,
     "trust": 80,
     "speed": 70,
@@ -2900,7 +2900,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable tool resource about arcade, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/tool/xymz-arcade-resource-171/",
+    "url": "https://XYMZsuite.com/games/tool/xymz-arcade-resource-171/",
     "freshness": 97,
     "trust": 91,
     "speed": 83,
@@ -2917,7 +2917,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable client resource about HTML, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/client/xymz-html-resource-172/",
+    "url": "https://XYMZsuite.com/software/client/xymz-html-resource-172/",
     "freshness": 54,
     "trust": 72,
     "speed": 96,
@@ -2934,7 +2934,7 @@ const XYMZ_INDEX = [
       "retro"
     ],
     "snippet": "A searchable media resource about tools, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/forums/media/xymz-tools-resource-173/",
+    "url": "https://XYMZsuite.com/forums/media/xymz-tools-resource-173/",
     "freshness": 61,
     "trust": 83,
     "speed": 69,
@@ -2951,7 +2951,7 @@ const XYMZ_INDEX = [
       "all"
     ],
     "snippet": "A searchable forum resource about media, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/business/forum/xymz-media-resource-174/",
+    "url": "https://XYMZsuite.com/business/forum/xymz-media-resource-174/",
     "freshness": 68,
     "trust": 94,
     "speed": 82,
@@ -2968,7 +2968,7 @@ const XYMZ_INDEX = [
       "images"
     ],
     "snippet": "A searchable article resource about case studies, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/retro/article/xymz-case-studies-resource-175/",
+    "url": "https://XYMZsuite.com/retro/article/xymz-case-studies-resource-175/",
     "freshness": 75,
     "trust": 75,
     "speed": 95,
@@ -2985,7 +2985,7 @@ const XYMZ_INDEX = [
       "audio"
     ],
     "snippet": "A searchable tool resource about flash, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/all/tool/xymz-flash-resource-176/",
+    "url": "https://XYMZsuite.com/all/tool/xymz-flash-resource-176/",
     "freshness": 82,
     "trust": 86,
     "speed": 68,
@@ -3002,7 +3002,7 @@ const XYMZ_INDEX = [
       "games"
     ],
     "snippet": "A searchable client resource about internet, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/images/client/xymz-internet-resource-177/",
+    "url": "https://XYMZsuite.com/images/client/xymz-internet-resource-177/",
     "freshness": 89,
     "trust": 97,
     "speed": 81,
@@ -3019,7 +3019,7 @@ const XYMZ_INDEX = [
       "software"
     ],
     "snippet": "A searchable media resource about portal, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/audio/media/xymz-portal-resource-178/",
+    "url": "https://XYMZsuite.com/audio/media/xymz-portal-resource-178/",
     "freshness": 96,
     "trust": 78,
     "speed": 94,
@@ -3036,7 +3036,7 @@ const XYMZ_INDEX = [
       "forums"
     ],
     "snippet": "A searchable forum resource about directory, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/games/forum/xymz-directory-resource-179/",
+    "url": "https://XYMZsuite.com/games/forum/xymz-directory-resource-179/",
     "freshness": 53,
     "trust": 89,
     "speed": 67,
@@ -3053,7 +3053,7 @@ const XYMZ_INDEX = [
       "business"
     ],
     "snippet": "A searchable article resource about birds, designed with retro portal energy and professional client-grade usefulness.",
-    "url": "https://XYMZ.com/software/article/xymz-birds-resource-180/",
+    "url": "https://XYMZsuite.com/software/article/xymz-birds-resource-180/",
     "freshness": 60,
     "trust": 70,
     "speed": 80,
@@ -3076,7 +3076,7 @@ const XYMZ_INDEX = [
     bookmarks: JSON.parse(localStorage.getItem("xymz_bookmarks") || "[]"),
     theme: localStorage.getItem("xymz_theme") || "royal",
     suggestionIndex: -1,
-    routeStack: ["https://XYMZ.com/"],
+    routeStack: ["https://XYMZsuite.com/"],
     routeIndex: 0
   };
 
@@ -3284,7 +3284,7 @@ const XYMZ_INDEX = [
 
     state.results = results.slice(0, 25);
     addHistory(cleanQuery);
-    pushRoute(`https://XYMZ.com/search?q=${encodeURIComponent(cleanQuery)}`);
+    pushRoute(`https://XYMZsuite.com/search?q=${encodeURIComponent(cleanQuery)}`);
     renderResults(cleanQuery);
     renderAnalytics();
 
@@ -3587,7 +3587,7 @@ const XYMZ_INDEX = [
       : `<p>No related pages found in this local XYMZ index.</p>`;
 
     modal(`XYMZ Virtual Page: ${escapeHtml(item.title)}`, `
-      <p><strong>Important:</strong> This is an internal XYMZ result page. The URL stays on <strong>XYMZ.com</strong> and opens inside this website.</p>
+      <p><strong>Important:</strong> This is an internal XYMZ result page. The URL stays on <strong>XYMZsuite.com</strong> and opens inside this website.</p>
       <p>XYMZ keeps you inside the search website and shows the result in this local virtual result viewer.</p>
       <hr />
       <p><strong>Title:</strong> ${escapeHtml(item.title)}</p>
@@ -3704,7 +3704,7 @@ const XYMZ_INDEX = [
     if (action === "about") modal("About XYMZ", "XYMZ Search is a retro-styled professional static search engine demo with advanced JavaScript interactions.");
     if (action === "submit") showSubmitUrl();
     if (action === "privacy") modal("Privacy", "This static demo stores saved searches and bookmarks only in your browser localStorage. No server receives your data.");
-    if (action === "terms") modal("Terms", "XYMZ Search is a static demo. Results stay inside XYMZ.com and are generated from the internal XYMZ index.");
+    if (action === "terms") modal("Terms", "XYMZ Search is a static demo. Results stay inside XYMZsuite.com and are generated from the internal XYMZ index.");
     if (action === "help") showHelp();
   }
 
@@ -3741,7 +3741,7 @@ const XYMZ_INDEX = [
   }
 
   function goHome() {
-    els.addressBox.value = "https://XYMZ.com/";
+    els.addressBox.value = "https://XYMZsuite.com/";
     setChannel("all");
     runSearch("welcome to XYMZ");
   }
